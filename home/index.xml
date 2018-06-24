@@ -2,60 +2,86 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Rola Dali</title>
-    <link>/home/</link>
+    <link>https://rdali.github.io/home/</link>
     <description>Recent content in Homes on Rola Dali</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Rola Dali</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rdali.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>/home/about/</link>
+      <link>https://rdali.github.io/home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/home/about/</guid>
-      <description>I&amp;rsquo;m a PhD candidate in genomics looking at copy number variation across healthy and disease genomes.</description>
+      <guid>https://rdali.github.io/home/about/</guid>
+      <description>I&amp;rsquo;m a Software Developer and Data Scientist at C3G, probing questions related to human health by building and using bioinformatics tools.</description>
     </item>
     
     <item>
-      <title>Talks</title>
-      <link>/home/talks/</link>
+      <title></title>
+      <link>https://rdali.github.io/home/biography/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://rdali.github.io/home/biography/</guid>
+      <description>Biography Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.</description>
+    </item>
+    
+    <item>
+      <title>Computer Science</title>
+      <link>https://rdali.github.io/home/compsci/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/home/talks/</guid>
+      <guid>https://rdali.github.io/home/compsci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Science</title>
+      <link>https://rdali.github.io/home/datasci/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://rdali.github.io/home/datasci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://rdali.github.io/home/research/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://rdali.github.io/home/research/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>/home/teaching/</link>
+      <link>https://rdali.github.io/home/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/home/teaching/</guid>
-      <description>Between 2013 and 2018, I organized eight R workshops for the students of the Human Genetics department. Slides can be found here. For these workshops, I received a Certificate of Appreciation from the department.
-Other teaching experiences include:</description>
+      <guid>https://rdali.github.io/home/teaching/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Notes</title>
-      <link>/home/notes/</link>
+      <title>Blog</title>
+      <link>https://rdali.github.io/home/blog/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/home/notes/</guid>
-      <description>I regularly write down notes about the tools and programming languages I use in a separate website. There are instructions to setup my working environment (Emacs-based) or things I don&amp;rsquo;t use often enough to remember but enough to collectively waste my time re-googling. I also put some exploratory analyses that might be helpful or interesting to some.
-HippocamPlus: my second memory</description>
+      <guid>https://rdali.github.io/home/blog/</guid>
+      <description>I keep notes and tutorials in Computer Science, Data Science and various topics. Check it out at:
+Food4Thought: Journals of a meandering mind</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>/home/contact/</link>
+      <link>https://rdali.github.io/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/home/contact/</guid>
+      <guid>https://rdali.github.io/home/contact/</guid>
       <description></description>
     </item>
     
