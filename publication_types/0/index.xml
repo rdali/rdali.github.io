@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>0 on Rola Dali</title>
-    <link>https://rdali.github.io/publication_types/0/</link>
+    <link>/publication_types/0/</link>
     <description>Recent content in 0 on Rola Dali</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Rola Dali</copyright>
     <lastBuildDate>Sat, 23 Jun 2018 22:19:20 -0400</lastBuildDate>
     
-	<atom:link href="https://rdali.github.io/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My Paper Name</title>
-      <link>https://rdali.github.io/publication/my-paper-name/</link>
+      <link>/publication/my-paper-name/</link>
       <pubDate>Sat, 23 Jun 2018 22:19:20 -0400</pubDate>
       
-      <guid>https://rdali.github.io/publication/my-paper-name/</guid>
+      <guid>/publication/my-paper-name/</guid>
       <description></description>
     </item>
     

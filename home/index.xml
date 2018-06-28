@@ -2,86 +2,86 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Rola Dali</title>
-    <link>https://rdali.github.io/home/</link>
+    <link>/home/</link>
     <description>Recent content in Homes on Rola Dali</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Rola Dali</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://rdali.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://rdali.github.io/home/about/</link>
+      <link>/home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://rdali.github.io/home/about/</guid>
+      <guid>/home/about/</guid>
       <description>I&amp;rsquo;m a Software Developer and Data Scientist at C3G, probing questions related to human health by building and using bioinformatics tools.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://rdali.github.io/home/biography/</link>
+      <link>/home/biography/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://rdali.github.io/home/biography/</guid>
+      <guid>/home/biography/</guid>
       <description>Biography Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.</description>
     </item>
     
     <item>
       <title>Computer Science</title>
-      <link>https://rdali.github.io/home/compsci/</link>
+      <link>/home/compsci/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://rdali.github.io/home/compsci/</guid>
+      <guid>/home/compsci/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data Science</title>
-      <link>https://rdali.github.io/home/datasci/</link>
+      <link>/home/datasci/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://rdali.github.io/home/datasci/</guid>
+      <guid>/home/datasci/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Research</title>
-      <link>https://rdali.github.io/home/research/</link>
+      <link>/home/research/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://rdali.github.io/home/research/</guid>
+      <guid>/home/research/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>https://rdali.github.io/home/teaching/</link>
+      <link>/home/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://rdali.github.io/home/teaching/</guid>
+      <guid>/home/teaching/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Blog</title>
-      <link>https://rdali.github.io/home/blog/</link>
+      <link>/home/blog/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://rdali.github.io/home/blog/</guid>
+      <guid>/home/blog/</guid>
       <description>I keep notes and tutorials in Computer Science, Data Science and various topics. Check it out at:
 Food4Thought: Journals of a meandering mind</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://rdali.github.io/home/contact/</link>
+      <link>/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://rdali.github.io/home/contact/</guid>
+      <guid>/home/contact/</guid>
       <description></description>
     </item>
     
