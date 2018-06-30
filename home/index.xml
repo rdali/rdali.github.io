@@ -22,12 +22,21 @@
     </item>
     
     <item>
-      <title></title>
-      <link>/home/biography/</link>
+      <title>Research</title>
+      <link>/home/research/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>/home/biography/</guid>
-      <description>Biography Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.</description>
+      <guid>/home/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/publications/</guid>
+      <description>RobusTAD: A Tool for Robust Annotation of Topologically Associating Domain Boundaries. BiorXiv 2018. Rola Dali, Guillaume Bourque, Mathieu Blanchette        Characterization of a FOXG1:TLE1 transcriptional network in glioblastoma-initiating cells. Molecular Oncology 2018. Rola Dali, Federica Verginelli, Albena Pramatarova, Robert Sladek, Stefano Stifani        A critical assessment of topologically associating domain prediction tools. Nucleic Acids Research 2017. Rola Dali, Mathieu Blanchette        Transcriptional regulation of mouse hypoglossal motor neuron somatotopic map formation.</description>
     </item>
     
     <item>
@@ -45,15 +54,6 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>/home/datasci/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Research</title>
-      <link>/home/research/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/home/research/</guid>
       <description></description>
     </item>
     

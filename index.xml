@@ -11,11 +11,11 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>My Paper Name</title>
-      <link>/publication/my-paper-name/</link>
-      <pubDate>Sat, 23 Jun 2018 22:19:20 -0400</pubDate>
+      <title>GenPipes Workshop: Jabado Group</title>
+      <link>/teaching/genpipes_jabado/</link>
+      <pubDate>Sat, 28 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/my-paper-name/</guid>
+      <guid>/teaching/genpipes_jabado/</guid>
       <description></description>
     </item>
     
