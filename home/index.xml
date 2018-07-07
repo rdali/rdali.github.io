@@ -18,16 +18,28 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>/home/about/</guid>
-      <description>I&amp;rsquo;m a Software Developer and Data Scientist at C3G, probing questions related to human health by building and using bioinformatics tools.</description>
+      <description></description>
     </item>
     
     <item>
-      <title>Research</title>
-      <link>/home/research/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <title> Biography</title>
+      <link>/home/bio/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/home/research/</guid>
-      <description></description>
+      <guid>/home/bio/</guid>
+      <description>I am a Software Developer and Data Scientist at C3G, probing questions related to human health by building and using bioinformatics tools.
+Education:
+PhD in NeuroScience &amp;amp; Bioinformatics
+McGill University
+2011-2017
+
+B.Sc in Biochemistry
+University of Ottawa
+2006-2010
+ Programming Skills:
+ Python:  numpy, pandas, matplotlib, seaborn, ggplot2, plotly, sklearn, Keras, jupyter notebooks
+R:  ggplot2, lattice, base R, limma, Genomics Ranges, R markdown notebooks
+Other languages: Bash, awk , Java, C++  Markdown &amp;amp; styling: HTML, CSS, markdown  Version control using git: github, bitbucket (user: rdali)  High Performance Computing: Batch, PBS/Torque, Slurm  Operating Systems: Mac, Linux, Windows  Framework development Software installation and configuration</description>
     </item>
     
     <item>
@@ -40,21 +52,24 @@
     </item>
     
     <item>
-      <title>Computer Science</title>
-      <link>/home/compsci/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/home/compsci/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Data Science</title>
       <link>/home/datasci/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>/home/datasci/</guid>
-      <description></description>
+      <description>Computer Science:
+Programming:
+Open Source software contributions:
+GenPipes
+MultiQC
+MultiQC_C3G plugin
+RobusTAD
+mugqic_tools
+Relevant Courses:
+Statistics:
+Relevant Courses:
+Data Science:
+Relevant Courses:</description>
     </item>
     
     <item>
