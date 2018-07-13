@@ -27,8 +27,11 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>/home/bio/</guid>
-      <description>I am a Software Developer and Data Scientist at C3G, probing questions related to human health by building and using bioinformatics tools.
+      <description>I am a Software Developer and Data Analyst at C3G, probing questions related to human health by building and using bioinformatics tools.
 Education:
+Professional Development Certificate in Data Science and Machine Learning McGill University
+2018-2019
+
 PhD in NeuroScience &amp;amp; Bioinformatics
 McGill University
 2011-2017
@@ -37,9 +40,7 @@ B.Sc in Biochemistry
 University of Ottawa
 2006-2010
  Programming Skills:
- Python:  numpy, pandas, matplotlib, seaborn, ggplot2, plotly, sklearn, Keras, jupyter notebooks
-R:  ggplot2, lattice, base R, limma, Genomics Ranges, R markdown notebooks
-Other languages: Bash, awk , Java, C++  Markdown &amp;amp; styling: HTML, CSS, markdown  Version control using git: github, bitbucket (user: rdali)  High Performance Computing: Batch, PBS/Torque, Slurm  Operating Systems: Mac, Linux, Windows  Framework development Software installation and configuration</description>
+ Python:  numpy, pandas, matplotlib, seaborn, ggplot2, plotly, sklearn, Keras, jupyter notebooks</description>
     </item>
     
     <item>
@@ -49,27 +50,6 @@ Other languages: Bash, awk , Java, C++  Markdown &amp;amp; styling: HTML, CSS, m
       
       <guid>/home/publications/</guid>
       <description>RobusTAD: A Tool for Robust Annotation of Topologically Associating Domain Boundaries. BiorXiv 2018. Rola Dali, Guillaume Bourque, Mathieu Blanchette        Characterization of a FOXG1:TLE1 transcriptional network in glioblastoma-initiating cells. Molecular Oncology 2018. Rola Dali, Federica Verginelli, Albena Pramatarova, Robert Sladek, Stefano Stifani        A critical assessment of topologically associating domain prediction tools. Nucleic Acids Research 2017. Rola Dali, Mathieu Blanchette        Transcriptional regulation of mouse hypoglossal motor neuron somatotopic map formation.</description>
-    </item>
-    
-    <item>
-      <title>Data Science</title>
-      <link>/home/datasci/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/home/datasci/</guid>
-      <description>Computer Science:
-Programming:
-Open Source software contributions:
-GenPipes
-MultiQC
-MultiQC_C3G plugin
-RobusTAD
-mugqic_tools
-Relevant Courses:
-Statistics:
-Relevant Courses:
-Data Science:
-Relevant Courses:</description>
     </item>
     
     <item>
