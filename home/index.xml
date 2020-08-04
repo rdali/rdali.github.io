@@ -32,15 +32,6 @@ I am an organized modular thinker who breaks problems into their individual, man
     </item>
     
     <item>
-      <title>Publications</title>
-      <link>/home/publications/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/home/publications/</guid>
-      <description>An Arf/Rab cascade controls the growth and invasiveness of glioblastoma. BiorXiv 2020. Gopinath Kulasekaran, Mathilde Chaineau, Valerio E. Piscopo, Federica Verginelli, Martine Girard, Maryam Fotouhi, Yeman Tang, Rola Dali, Rita Lo, Stefano Stifani, Peter S. McPherson        Groucho/TLE opposes axial to hypaxial motor neuron development. BiorXiv 2020. Adèle Salin-Cantegrel, Rola Dali, Jae Woong Wang, Marielle Beaulieu, Mira Deshmukh, Ye Man Tang, Stefano Stifani        Avoidance Learning Using Observational Reinforcement Learning.</description>
-    </item>
-    
-    <item>
       <title>Skills</title>
       <link>/home/skills/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
@@ -48,7 +39,10 @@ I am an organized modular thinker who breaks problems into their individual, man
       <guid>/home/skills/</guid>
       <description>Programming Skills:  Python:  numpy, pandas, matplotlib, seaborn, ggplot2, plotly, sklearn, Keras, jupyter notebooks
 R:  ggplot2, lattice, base R, limma, Genomics Ranges, R markdown notebooks
-Other languages: Bash, awk , Java  Markdown &amp;amp; styling: HTML, CSS, markdown  Version control using git: github, bitbucket (user: rdali)  High Performance Computing: Batch, PBS/Torque, Slurm  Operating Systems: Mac, Linux, Windows  Framework development Software installation and configuration Automated testing using Jenkins Miscellaneous:  Docker, Virtual machines, GSoC Admin for 2018/2019/2020, Season of Docs Admin for 2019, Hackathon: McHacks 2017</description>
+Other languages: Bash, awk , Java Markdown &amp;amp; styling: HTML, CSS, markdown Version control using git: github, bitbucket (user: rdali) High Performance Computing: Batch, PBS/Torque, Slurm Operating Systems: Mac, Linux, Windows
+Miscellaneous:  Framework development
+Software installation and configuration
+Automated testing using Jenkins</description>
     </item>
     
     <item>
@@ -79,6 +73,15 @@ McGill University
 B.Sc in Biochemistry
 University of Ottawa
 2006-2010</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>/home/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/home/publications/</guid>
+      <description>An Arf/Rab cascade controls the growth and invasiveness of glioblastoma. BiorXiv 2020. Gopinath Kulasekaran, Mathilde Chaineau, Valerio E. Piscopo, Federica Verginelli, Martine Girard, Maryam Fotouhi, Yeman Tang, Rola Dali, Rita Lo, Stefano Stifani, Peter S. McPherson        Groucho/TLE opposes axial to hypaxial motor neuron development. BiorXiv 2020. Adèle Salin-Cantegrel, Rola Dali, Jae Woong Wang, Marielle Beaulieu, Mira Deshmukh, Ye Man Tang, Stefano Stifani        Avoidance Learning Using Observational Reinforcement Learning.</description>
     </item>
     
     <item>
